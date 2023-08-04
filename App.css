@@ -1,0 +1,23 @@
+body{
+  background: url(https://img.favpng.com/7/0/3/earth-desktop-wallpaper-the-kedumah-experience-book-one-the-primordial-torah-wallpaper-png-favpng-jEryZhq0UZ9VLjDCqRjJC9ZPV.jpg) no-repeat center center fixed;
+  background-size: cover;;
+  color: white;
+  
+  
+}
+p{
+  font-size: 30px;
+  margin-top: 10px;
+}
+h1{
+  color: orange;
+  margin-top: 10px;
+}
+button{
+  border-radius: 30px;
+  height: 50px;
+  width: 200px;
+  border: black;
+}
+
+
